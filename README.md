@@ -13,7 +13,7 @@ This Code Send Notification on Discord TextChannel When SSH Login and logout its
 Clone Repository in `/sbin` Directory :
 ```
 cd /sbin
-git clone github.com/zi-gax/SSH-Monitor
+git clone https://github.com/zi-gax/SSH-Monitor
 ```
 Add Webhook URL : (line 3)
 ```
